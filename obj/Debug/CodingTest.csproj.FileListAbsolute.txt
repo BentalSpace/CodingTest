@@ -1,0 +1,7 @@
+C:\Users\wjddl\OneDrive\바탕 화면\CodingTest\CodingTest\bin\Debug\CodingTest.exe.config
+C:\Users\wjddl\OneDrive\바탕 화면\CodingTest\CodingTest\bin\Debug\CodingTest.exe
+C:\Users\wjddl\OneDrive\바탕 화면\CodingTest\CodingTest\bin\Debug\CodingTest.pdb
+C:\Users\wjddl\OneDrive\바탕 화면\CodingTest\CodingTest\obj\Debug\CodingTest.csproj.AssemblyReference.cache
+C:\Users\wjddl\OneDrive\바탕 화면\CodingTest\CodingTest\obj\Debug\CodingTest.csproj.CoreCompileInputs.cache
+C:\Users\wjddl\OneDrive\바탕 화면\CodingTest\CodingTest\obj\Debug\CodingTest.exe
+C:\Users\wjddl\OneDrive\바탕 화면\CodingTest\CodingTest\obj\Debug\CodingTest.pdb
