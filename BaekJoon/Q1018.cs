@@ -17,7 +17,10 @@ class Q1018
         {
             chessWStart[i] = Console.ReadLine();
         }
+
+        // chessBStart나 chessWStart 중 하나만 써도 된다. 아무것도 안바꾸고, 그냥 있는 변수들을 쓰는 변수로 바꾸기만 하면 됨
         chessBStart = chessWStart;
+
 
         for(int i = 0; i < chessSize[0] - 7; i++)
         {
