@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 class Q9012
 {
-    static void Main()
+    static void Main1()
     {
         int cnt = int.Parse(Console.ReadLine());
 
